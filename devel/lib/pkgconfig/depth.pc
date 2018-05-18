@@ -1,0 +1,8 @@
+prefix=/home/nvidia/HW/HW1/devel
+
+Name: depth
+Description: Description of depth
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/nvidia/HW/HW1/devel/lib -ldepth
+Requires: roscpp sensor_msgs
